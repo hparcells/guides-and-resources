@@ -5,6 +5,7 @@
   - [Subjects](#subjects)
     - [Programming](#programming)
     - [Hobbies and Interests](#hobbies-and-interests)
+    - [Games](#games)
   - [Contributing Guide](#contributing-guide)
 
 ## Subjects
@@ -18,6 +19,11 @@ Topic | Description
 Topic | Description
 ---------- | ----------
 [Cubing](./hobbies/cubing.md) | Learn how to solve a Rubik's Cube and learn new algorithms.
+
+### Games
+Topic | Description
+---------- | ----------
+[Convert Minecraft Server World to a Single Player World](games/mc-server-to-single-player-world.md) | Take a world hosted on a server and make it a single player world.
 
 ## Contributing Guide
 **Adding a New Guide or Resource**
