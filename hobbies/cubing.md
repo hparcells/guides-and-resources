@@ -1,5 +1,6 @@
 # Cubing
 > Useful links for learning how to solve a Rubik's cube, or get faster at it.
+
 ## Learning
 Item | Origin | Link | Notes
 ---------- | ---------- | ---------- | ----------

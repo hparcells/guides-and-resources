@@ -6,6 +6,7 @@
     - [Programming](#programming)
     - [Hobbies and Interests](#hobbies-and-interests)
     - [Games](#games)
+    - [Applications and Websites](#applications-and-websites)
   - [Contributing Guide](#contributing-guide)
 
 ## Subjects
@@ -25,10 +26,16 @@ Topic | Description
 ---------- | ----------
 [Convert Minecraft Server World to a Single Player World](games/mc-server-to-single-player-world.md) | Take a world hosted on a server and make it a single player world.
 
+### Applications and Websites
+Topic | Description
+---------- | ----------
+[VLC Media Player](applications/vlc.md) | Tips for using VLC media player.
+[YouTube](applications/youtube.md) | YouTube tips and secrets.
+
 ## Contributing Guide
 **Adding a New Guide or Resource**
 
-There are currently **two** categories. `programming` and `hobbies`. Place your markdown files in either of those folders, update the README.md, and create a pull request describing what you added.
+There are currently **four** categories. Place your markdown files in its respected folder, update the README.md (this file), and create a pull request describing what you added.
 
 ---
 
