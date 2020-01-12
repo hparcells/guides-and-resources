@@ -25,6 +25,7 @@ Topic | Description
 Topic | Description
 ---------- | ----------
 [Convert Minecraft Server World to a Single Player World](games/mc-server-to-single-player-world.md) | Take a world hosted on a server and make it a single player world.
+[Portal 2](games/portal2.md) | Portal 2 resources and speedrunning.
 
 ### Applications and Websites
 Topic | Description
